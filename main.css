@@ -1,0 +1,17 @@
+
+* {
+    margin: 0;
+}
+body {
+    background-image: url(lambda.png);
+    background-repeat: repeat;
+}
+
+#main {
+    margin : 100px auto;
+    width: 50%;
+    padding: 40px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: -2px -2px 5px rgba(0.1,0.1,0,0.5) inset, 10px 10px 15px rgba(0,0,0,0.8), 10px 10px 100px rgba(0,0,0,0.5);
+}
